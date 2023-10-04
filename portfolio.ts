@@ -17,7 +17,7 @@ export const greetings: GreetingsType = {
   description:
     "I'm passionate Full Stack web developer having an experience of web applications and Blockchain development",
   resumeLink:
-    'Saharsh/patel',
+    'https://drive.google.com/file/d/1xha4CmDTGNUk6nY3BpbEqemVqts1T0S6/view?usp=sharing',
 };
 
 export const openSource = {
@@ -227,7 +227,7 @@ export const experience: ExperienceType[] = [
   {
     role: 'React Developer',
     company: 'Western Illinois University',
-    companyLogo: 'https://media.licdn.com/dms/image/C4E0BAQGVH4xpEavR6A/company-logo_200_200/0/1567020531335?e=1695254400&v=beta&t=gGQwhKR4HQFm_7iir3IxjEV9cLXHmxl9qGY50CnXwq4',
+    companyLogo: '/img/icons/common/wlogo.jpg',
     date: 'May 2023 - Present',
     desc: '',
     // descBullets: [
