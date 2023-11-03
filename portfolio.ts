@@ -216,7 +216,7 @@ export const experience: ExperienceType[] = [
     role: 'Software Developer',
     company: 'DMG Blockchain Solutions inc.',
     companyLogo: '/img/icons/common/DMG.jpg',
-    date: 'Sept 2022 – April 2023',
+    date: 'Sept 2023 - Present',
     desc: '',
     // descBullets: [
     // 	"Developed efficient, scalable, and high-performance web applications using NEXT.js and Fastify frameworks.",
@@ -228,7 +228,7 @@ export const experience: ExperienceType[] = [
     role: 'React Developer',
     company: 'Western Illinois University',
     companyLogo: '/img/icons/common/wlogo.jpg',
-    date: 'May 2023 - Present',
+    date: 'Jan 2022 – July 2022',
     desc: '',
     // descBullets: [
     // 	"Worked closely with the design team to implement responsive and user-friendly interfaces",
