@@ -17,7 +17,7 @@ export const greetings: GreetingsType = {
   description:
     "I'm passionate Full Stack web developer having an experience of web applications and Blockchain development",
   resumeLink:
-    'https://drive.google.com/file/d/1xha4CmDTGNUk6nY3BpbEqemVqts1T0S6/view?usp=sharing',
+    'https://drive.google.com/file/d/17xIGj-oMwlqm4ZmnEbdRS1gsrMeTzuuz/view?usp=drive_link',
 };
 
 export const openSource = {
